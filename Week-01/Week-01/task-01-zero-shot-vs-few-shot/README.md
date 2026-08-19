@@ -28,4 +28,25 @@
 ---
 
 ## 🔬 Zero-Shot Prompt (No Examples)
+Classify the following customer support messages as "Complaint", "Question", or "Praise".
+Only output the label for each message, one per line in order.
 
+"I am extremely disappointed with the product. It broke after two days."
+
+"How do I reset my password? I can't find the option."
+
+"Amazing service! The team was super helpful and quick."
+
+"My order hasn't arrived yet. It's been a week."
+
+"Can you tell me the return policy for electronics?"
+
+"I love your new feature. It's so intuitive."
+
+"The app keeps crashing every time I open it. This is frustrating."
+
+"What are your business hours on weekends?"
+
+"Your customer support team is the best I've ever dealt with."
+
+"I received a damaged item. I want a refund."
