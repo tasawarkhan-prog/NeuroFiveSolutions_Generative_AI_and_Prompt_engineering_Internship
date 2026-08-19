@@ -40,13 +40,8 @@ This repository documents my 6-week journey as a Generative AI Intern.
 
 ## ✅ Week 1: Generative AI & Prompt Engineering
 
-### 🎯 Task: Zero-Shot vs Few-Shot Prompting Showdown
-
-**Objective:** Compare zero-shot and few-shot approaches for classifying customer support messages.
-
-**The Problem:** Classify 10 customer support messages as "Complaint", "Question", or "Praise"
-
-**Tools Used:** ChatGPT, Claude, Gemini
+### Task 1: Zero-Shot vs Few-Shot Prompting Showdown
+Classified 10 customer support messages across ChatGPT, Claude, and Gemini.
 
 **Results:**
 | Tool | Zero-Shot | Few-Shot |
@@ -55,15 +50,25 @@ This repository documents my 6-week journey as a Generative AI Intern.
 | Claude | 10/10 ✅ | 10/10 ✅ |
 | Gemini | 9/10 | 10/10 ✅ |
 
-📁 **[View Week 1 Task Details →](Week-01/Week-01/task-01-zero-shot-vs-few-shot/)**
+### Task 2: Prompt Library v1 - Customer Support Replies
+Created 5 reusable prompts for customer support scenarios:
+- Defective Product (Empathetic)
+- Billing Question (Professional)
+- Feature Request (Friendly)
+- Account Cancellation (Retention-focused)
+- Technical Issue (Reassuring)
+
+**Results:** All 5 scenarios generated high-quality replies meeting all constraints ✅
+
+📁 **[View Week 1 Details →](Week-01/Week-01/)**
+
+
 
 ---
 
-## 📊 Weekly Progress Tracker
-
 | Week | Topic | Status | Key Deliverable |
 |:---|:---|:---:|:---|
-| **Week 1** | Generative AI & Prompt Engineering | ✅ Completed | Zero-shot vs Few-shot Analysis |
+| **Week 1** | Generative AI & Prompt Engineering | ✅ Completed | Zero-shot vs Few-shot Analysis + Prompt Library |
 | **Week 2** | TBD | ⏳ Pending | Coming Soon |
 | **Week 3** | TBD | ⏳ Pending | Coming Soon |
 | **Week 4** | TBD | ⏳ Pending | Coming Soon |
