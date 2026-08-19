@@ -83,8 +83,8 @@ This repository documents my 6-week journey as a Generative AI Intern.
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn URL]
-- 🐙 **GitHub:** [Your GitHub URL]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/tasawar-abbas-khan-niazi-b87328314)]
+- 🐙 **GitHub:** [[Your GitHub URL](https://github.com/tasawarkhan-prog/)]
 
 ---
 
