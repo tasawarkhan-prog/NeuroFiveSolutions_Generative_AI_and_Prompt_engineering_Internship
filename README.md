@@ -36,3 +36,68 @@ This repository documents my 6-week journey as a Generative AI Intern.
 
 ## 📂 Repository Structure
 
+---
+
+## ✅ Week 1: Generative AI & Prompt Engineering
+
+### 🎯 Task: Zero-Shot vs Few-Shot Prompting Showdown
+
+**Objective:** Compare zero-shot and few-shot approaches for classifying customer support messages.
+
+**The Problem:** Classify 10 customer support messages as "Complaint", "Question", or "Praise"
+
+**Tools Used:** ChatGPT, Claude, Gemini
+
+**Results:**
+| Tool | Zero-Shot | Few-Shot |
+|:---|:---:|:---:|
+| ChatGPT | 10/10 ✅ | 10/10 ✅ |
+| Claude | 10/10 ✅ | 10/10 ✅ |
+| Gemini | 9/10 | 10/10 ✅ |
+
+📁 **[View Week 1 Task Details →](Week-01/task-01-zero-shot-vs-few-shot/)**
+
+---
+
+## 📊 Weekly Progress Tracker
+
+| Week | Topic | Status | Key Deliverable |
+|:---|:---|:---:|:---|
+| **Week 1** | Generative AI & Prompt Engineering | ✅ Completed | Zero-shot vs Few-shot Analysis |
+| **Week 2** | TBD | ⏳ Pending | Coming Soon |
+| **Week 3** | TBD | ⏳ Pending | Coming Soon |
+| **Week 4** | TBD | ⏳ Pending | Coming Soon |
+| **Week 5** | TBD | ⏳ Pending | Coming Soon |
+| **Week 6** | TBD | ⏳ Pending | Coming Soon |
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 🧠 **Generative AI** - ChatGPT, Claude, Gemini
+- 📝 **Prompt Engineering** - Zero-shot, Few-shot
+- 📊 **Data Analysis** - Comparing model outputs
+- 🔧 **Tools** - GitHub, VS Code
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 🐙 **GitHub:** [Your GitHub URL]
+
+---
+
+## 🙏 Acknowledgements
+
+Thank you to the entire **NeuroFive Solutions** team for this incredible opportunity!
+
+---
+
+<div align="center">
+
+**🚀 Week 1 Complete • More coming soon!**
+
+*Last Updated: February 2026*
+
+</div>
