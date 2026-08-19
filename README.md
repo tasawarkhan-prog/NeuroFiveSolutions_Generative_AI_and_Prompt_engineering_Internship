@@ -83,8 +83,8 @@ This repository documents my 6-week journey as a Generative AI Intern.
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/tasawar-abbas-khan-niazi-b87328314)]
-- 🐙 **GitHub:** [[Your GitHub URL](https://github.com/tasawarkhan-prog/)]
+- 💼 **LinkedIn:** [[My LinkedIn URL](https://www.linkedin.com/in/tasawar-abbas-khan-niazi-b87328314)]
+- 🐙 **GitHub:** [[My GitHub URL](https://github.com/tasawarkhan-prog/)]
 
 ---
 
@@ -98,6 +98,6 @@ Thank you to the entire **NeuroFive Solutions** team for this incredible opportu
 
 **🚀 Week 1 Complete • More coming soon!**
 
-*Last Updated: February 2026*
+*Last Updated: 19 August, 2026*
 
 </div>
