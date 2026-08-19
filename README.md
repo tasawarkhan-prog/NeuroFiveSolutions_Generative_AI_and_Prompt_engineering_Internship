@@ -55,7 +55,7 @@ This repository documents my 6-week journey as a Generative AI Intern.
 | Claude | 10/10 ✅ | 10/10 ✅ |
 | Gemini | 9/10 | 10/10 ✅ |
 
-📁 **[View Week 1 Task Details →]([Week-01/task-01-zero-shot-vs-few-shot/](https://github.com/tasawarkhan-prog/NeuroFiveSolutions_Generative_AI_and_Prompt_engineering_Internship/tree/main/Week-01/Week-01/))**
+📁 **[View Week 1 Task Details →](Week-01/Week-01/task-01-zero-shot-vs-few-shot/)**
 
 ---
 
