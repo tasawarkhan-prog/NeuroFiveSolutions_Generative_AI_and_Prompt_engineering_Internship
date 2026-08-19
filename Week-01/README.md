@@ -30,7 +30,7 @@ Classify 10 customer support messages into three categories:
 - ✅ Zero-shot performance varied between tools
 - ✅ Gemini showed the most improvement with examples
 
-📁 **[View Full Task Details →](Week-01/Week-01/task-01-zero-shot-vs-few-shot)**
+📁 **[View Full Task Details →](/task-01-zero-shot-vs-few-shot)**
 
 ---
 
